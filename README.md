@@ -17,4 +17,18 @@ git clone https://github.com/xKobeni/Git_Collaboration_Practice.git
 8. The tech lead will merge your changes into the main branch.
 9. You can inform the tech lead if you have any concerns or if you need help.
 
+## Detailed Instructions
+
+git clone <link>
+git pull origin main
+git checkout -b <branchname> (para maglagay ng bagong branch)
+git status
+git add <file directory sa github>
+git commit -m "comment"
+git push origin <branchname>
+git checkout main
+
+Punta sa GitHub, create pull request tas si lead na bahala mag merge
+
+
 🔗 **[Live Demo](https://xkobeni.github.io/Git_Collaboration_Practice/)**
