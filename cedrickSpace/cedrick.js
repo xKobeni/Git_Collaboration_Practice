@@ -10,6 +10,8 @@ DOM.insertAdjacentHTML(
         <div class="container">
             <h1 class="display-4 mb-4">Welcome to Cedrick's Section</h1>
             <p class="lead mb-4">Frontend Developer & Tech Enthusiast</p>
+            <img src="https://images.steamusercontent.com/ugc/949596928134142092/4C0E46016EE7ABF8440FCA7B9B5AB60EF55AA969/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" width="250"/>
+            <img src="https://media1.tenor.com/m/tVrkM5XhW-EAAAAd/flick-esfand.gif" width="250" height="180"/>
             
             <div class="row justify-content-center mb-4">
                 <div class="col-md-8">
