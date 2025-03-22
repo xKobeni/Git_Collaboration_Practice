@@ -2,11 +2,11 @@ DOM.insertAdjacentHTML('beforeend', `
 
     <!-- Lourenz Space -->
 
-    <!-- Kayo na bahala kung ano ilalagay nyo dine HAHAHHH -->
+    <!-- bahala ma si batman perds-->
 
     <div class="vh-100 d-flex flex-column justify-content-center align-items-center text-center bg-light"> 
-        <h1>Lourenz Section</h1>
-        <p>Pahawak ng iyong BUTU.😀</p>
+        <h1>I like trains/h1>
+        <p>I was born into a nation of despair, and I alone am the remedy</p>
     </div>
 
 `);
