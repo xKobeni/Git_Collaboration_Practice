@@ -6,7 +6,7 @@ DOM.insertAdjacentHTML('beforeend', `
 
     <div class="vh-100 d-flex flex-column justify-content-center align-items-center text-center bg-warning"> 
         <h1>Lourenz Section</h1>
-        <p>Pahawak ng iyong BUTU.😀</p>
+        <p>hello perds</p>
     </div>
 
 `);
